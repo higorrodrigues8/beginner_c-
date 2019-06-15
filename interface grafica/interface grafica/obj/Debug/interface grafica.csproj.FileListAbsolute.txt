@@ -1,0 +1,10 @@
+C:\Users\higor\Desktop\c#\Segundo programa\Interface_grafica\interface grafica\interface grafica\bin\Debug\interface grafica.exe.config
+C:\Users\higor\Desktop\c#\Segundo programa\Interface_grafica\interface grafica\interface grafica\bin\Debug\interface grafica.exe
+C:\Users\higor\Desktop\c#\Segundo programa\Interface_grafica\interface grafica\interface grafica\bin\Debug\interface grafica.pdb
+C:\Users\higor\Desktop\c#\Segundo programa\Interface_grafica\interface grafica\interface grafica\obj\Debug\interface grafica.csprojAssemblyReference.cache
+C:\Users\higor\Desktop\c#\Segundo programa\Interface_grafica\interface grafica\interface grafica\obj\Debug\interface_grafica.Form1.resources
+C:\Users\higor\Desktop\c#\Segundo programa\Interface_grafica\interface grafica\interface grafica\obj\Debug\interface_grafica.Properties.Resources.resources
+C:\Users\higor\Desktop\c#\Segundo programa\Interface_grafica\interface grafica\interface grafica\obj\Debug\interface grafica.csproj.GenerateResource.cache
+C:\Users\higor\Desktop\c#\Segundo programa\Interface_grafica\interface grafica\interface grafica\obj\Debug\interface grafica.csproj.CoreCompileInputs.cache
+C:\Users\higor\Desktop\c#\Segundo programa\Interface_grafica\interface grafica\interface grafica\obj\Debug\interface grafica.exe
+C:\Users\higor\Desktop\c#\Segundo programa\Interface_grafica\interface grafica\interface grafica\obj\Debug\interface grafica.pdb

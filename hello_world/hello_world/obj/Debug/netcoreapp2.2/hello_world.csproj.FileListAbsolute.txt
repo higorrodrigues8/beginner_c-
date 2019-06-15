@@ -1,0 +1,10 @@
+C:\Users\higor\Desktop\c#\primeiro programa\hello_world\hello_world\bin\Debug\netcoreapp2.2\hello_world.deps.json
+C:\Users\higor\Desktop\c#\primeiro programa\hello_world\hello_world\bin\Debug\netcoreapp2.2\hello_world.runtimeconfig.json
+C:\Users\higor\Desktop\c#\primeiro programa\hello_world\hello_world\bin\Debug\netcoreapp2.2\hello_world.runtimeconfig.dev.json
+C:\Users\higor\Desktop\c#\primeiro programa\hello_world\hello_world\bin\Debug\netcoreapp2.2\hello_world.dll
+C:\Users\higor\Desktop\c#\primeiro programa\hello_world\hello_world\bin\Debug\netcoreapp2.2\hello_world.pdb
+C:\Users\higor\Desktop\c#\primeiro programa\hello_world\hello_world\obj\Debug\netcoreapp2.2\hello_world.csproj.CoreCompileInputs.cache
+C:\Users\higor\Desktop\c#\primeiro programa\hello_world\hello_world\obj\Debug\netcoreapp2.2\hello_world.AssemblyInfoInputs.cache
+C:\Users\higor\Desktop\c#\primeiro programa\hello_world\hello_world\obj\Debug\netcoreapp2.2\hello_world.AssemblyInfo.cs
+C:\Users\higor\Desktop\c#\primeiro programa\hello_world\hello_world\obj\Debug\netcoreapp2.2\hello_world.dll
+C:\Users\higor\Desktop\c#\primeiro programa\hello_world\hello_world\obj\Debug\netcoreapp2.2\hello_world.pdb

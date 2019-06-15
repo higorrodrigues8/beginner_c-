@@ -1,0 +1,11 @@
+C:\Users\higor\Desktop\c#\Terceiro programa\comentarios\comentarios\bin\Debug\netcoreapp2.2\comentarios.deps.json
+C:\Users\higor\Desktop\c#\Terceiro programa\comentarios\comentarios\bin\Debug\netcoreapp2.2\comentarios.runtimeconfig.json
+C:\Users\higor\Desktop\c#\Terceiro programa\comentarios\comentarios\bin\Debug\netcoreapp2.2\comentarios.runtimeconfig.dev.json
+C:\Users\higor\Desktop\c#\Terceiro programa\comentarios\comentarios\bin\Debug\netcoreapp2.2\comentarios.dll
+C:\Users\higor\Desktop\c#\Terceiro programa\comentarios\comentarios\bin\Debug\netcoreapp2.2\comentarios.pdb
+C:\Users\higor\Desktop\c#\Terceiro programa\comentarios\comentarios\obj\Debug\netcoreapp2.2\comentarios.csprojAssemblyReference.cache
+C:\Users\higor\Desktop\c#\Terceiro programa\comentarios\comentarios\obj\Debug\netcoreapp2.2\comentarios.csproj.CoreCompileInputs.cache
+C:\Users\higor\Desktop\c#\Terceiro programa\comentarios\comentarios\obj\Debug\netcoreapp2.2\comentarios.AssemblyInfoInputs.cache
+C:\Users\higor\Desktop\c#\Terceiro programa\comentarios\comentarios\obj\Debug\netcoreapp2.2\comentarios.AssemblyInfo.cs
+C:\Users\higor\Desktop\c#\Terceiro programa\comentarios\comentarios\obj\Debug\netcoreapp2.2\comentarios.dll
+C:\Users\higor\Desktop\c#\Terceiro programa\comentarios\comentarios\obj\Debug\netcoreapp2.2\comentarios.pdb

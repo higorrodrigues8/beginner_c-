@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\higor\Desktop\c#\Terceiro programa\agenda_telefonica.cs" Link="agenda_telefonica.cs" />
+  </ItemGroup>
+
+</Project>

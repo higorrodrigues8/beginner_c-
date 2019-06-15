@@ -1,0 +1,11 @@
+C:\Users\higor\Desktop\c#\Terceiro programa\operadores_logicos\operadores_logicos\obj\Debug\netcoreapp2.2\operadores_logicos.csprojAssemblyReference.cache
+C:\Users\higor\Desktop\c#\Terceiro programa\operadores_logicos\operadores_logicos\obj\Debug\netcoreapp2.2\operadores_logicos.csproj.CoreCompileInputs.cache
+C:\Users\higor\Desktop\c#\Terceiro programa\operadores_logicos\operadores_logicos\obj\Debug\netcoreapp2.2\operadores_logicos.AssemblyInfoInputs.cache
+C:\Users\higor\Desktop\c#\Terceiro programa\operadores_logicos\operadores_logicos\obj\Debug\netcoreapp2.2\operadores_logicos.AssemblyInfo.cs
+C:\Users\higor\Desktop\c#\Terceiro programa\operadores_logicos\operadores_logicos\bin\Debug\netcoreapp2.2\operadores_logicos.deps.json
+C:\Users\higor\Desktop\c#\Terceiro programa\operadores_logicos\operadores_logicos\bin\Debug\netcoreapp2.2\operadores_logicos.runtimeconfig.json
+C:\Users\higor\Desktop\c#\Terceiro programa\operadores_logicos\operadores_logicos\bin\Debug\netcoreapp2.2\operadores_logicos.runtimeconfig.dev.json
+C:\Users\higor\Desktop\c#\Terceiro programa\operadores_logicos\operadores_logicos\bin\Debug\netcoreapp2.2\operadores_logicos.dll
+C:\Users\higor\Desktop\c#\Terceiro programa\operadores_logicos\operadores_logicos\bin\Debug\netcoreapp2.2\operadores_logicos.pdb
+C:\Users\higor\Desktop\c#\Terceiro programa\operadores_logicos\operadores_logicos\obj\Debug\netcoreapp2.2\operadores_logicos.dll
+C:\Users\higor\Desktop\c#\Terceiro programa\operadores_logicos\operadores_logicos\obj\Debug\netcoreapp2.2\operadores_logicos.pdb

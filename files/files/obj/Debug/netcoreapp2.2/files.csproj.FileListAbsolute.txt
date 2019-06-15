@@ -1,0 +1,11 @@
+C:\Users\higor\Desktop\c#\Terceiro programa\files\files\obj\Debug\netcoreapp2.2\files.csprojAssemblyReference.cache
+C:\Users\higor\Desktop\c#\Terceiro programa\files\files\obj\Debug\netcoreapp2.2\files.csproj.CoreCompileInputs.cache
+C:\Users\higor\Desktop\c#\Terceiro programa\files\files\obj\Debug\netcoreapp2.2\files.AssemblyInfoInputs.cache
+C:\Users\higor\Desktop\c#\Terceiro programa\files\files\obj\Debug\netcoreapp2.2\files.AssemblyInfo.cs
+C:\Users\higor\Desktop\c#\Terceiro programa\files\files\bin\Debug\netcoreapp2.2\files.deps.json
+C:\Users\higor\Desktop\c#\Terceiro programa\files\files\bin\Debug\netcoreapp2.2\files.runtimeconfig.json
+C:\Users\higor\Desktop\c#\Terceiro programa\files\files\bin\Debug\netcoreapp2.2\files.runtimeconfig.dev.json
+C:\Users\higor\Desktop\c#\Terceiro programa\files\files\bin\Debug\netcoreapp2.2\files.dll
+C:\Users\higor\Desktop\c#\Terceiro programa\files\files\bin\Debug\netcoreapp2.2\files.pdb
+C:\Users\higor\Desktop\c#\Terceiro programa\files\files\obj\Debug\netcoreapp2.2\files.dll
+C:\Users\higor\Desktop\c#\Terceiro programa\files\files\obj\Debug\netcoreapp2.2\files.pdb

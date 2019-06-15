@@ -1,0 +1,11 @@
+C:\Users\higor\Desktop\c#\Terceiro programa\teste\teste\obj\Debug\netcoreapp2.2\teste.csproj.CoreCompileInputs.cache
+C:\Users\higor\Desktop\c#\Terceiro programa\teste\teste\obj\Debug\netcoreapp2.2\teste.AssemblyInfoInputs.cache
+C:\Users\higor\Desktop\c#\Terceiro programa\teste\teste\obj\Debug\netcoreapp2.2\teste.AssemblyInfo.cs
+C:\Users\higor\Desktop\c#\Terceiro programa\teste\teste\bin\Debug\netcoreapp2.2\teste.deps.json
+C:\Users\higor\Desktop\c#\Terceiro programa\teste\teste\bin\Debug\netcoreapp2.2\teste.runtimeconfig.json
+C:\Users\higor\Desktop\c#\Terceiro programa\teste\teste\bin\Debug\netcoreapp2.2\teste.runtimeconfig.dev.json
+C:\Users\higor\Desktop\c#\Terceiro programa\teste\teste\bin\Debug\netcoreapp2.2\teste.dll
+C:\Users\higor\Desktop\c#\Terceiro programa\teste\teste\bin\Debug\netcoreapp2.2\teste.pdb
+C:\Users\higor\Desktop\c#\Terceiro programa\teste\teste\obj\Debug\netcoreapp2.2\teste.csprojAssemblyReference.cache
+C:\Users\higor\Desktop\c#\Terceiro programa\teste\teste\obj\Debug\netcoreapp2.2\teste.dll
+C:\Users\higor\Desktop\c#\Terceiro programa\teste\teste\obj\Debug\netcoreapp2.2\teste.pdb
